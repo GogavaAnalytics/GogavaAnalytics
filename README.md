@@ -80,6 +80,6 @@ Un proyecto está listo en local y será subido en breve.
 ### 📫 Contacto
 
 <p align="center">
-Email: tu-email@example.com<br>
-LinkedIn: tu-linkedin
+Email: gogavaanalytics@gmail.com <br>
+LinkedIn: www.linkedin.com/in/gogava-analytics
 </p>
